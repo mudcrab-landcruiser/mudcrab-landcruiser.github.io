@@ -1,1 +1,5 @@
-# mudcrab-landcruiser.github.io
+---
+layout: home
+background: 'img/mudcrab.jpg'
+---
+
