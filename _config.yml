@@ -1,3 +1,5 @@
-theme: jekyll-theme-cayman
+remote_theme: StartBootstrap/startbootstrap-clean-blog-jekyll
+plugins: 
+- jekyll-remote-theme
 title: Mudcrab Darwin harbour crossing
 description: An underwater crossing of Darwin harbour in an electric Landcruiser
