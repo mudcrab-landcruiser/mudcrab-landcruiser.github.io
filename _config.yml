@@ -1,4 +1,5 @@
-remote_theme: StartBootstrap/startbootstrap-clean-blog-jekyll
+remote_theme: bencentra/centrarium
+# remote_theme: StartBootstrap/startbootstrap-clean-blog-jekyll
 plugins: 
 - jekyll-remote-theme
 title: Mudcrab Darwin harbour crossing

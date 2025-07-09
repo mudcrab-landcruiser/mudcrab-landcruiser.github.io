@@ -2,6 +2,7 @@
 layout: post
 title: Electric conversion
 date: 2025-07-08
+background: 'img/mudcrab.jpg'
 ---
 
 # Electric conversion
