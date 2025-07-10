@@ -1,6 +1,5 @@
 ---
-layout: home
-background: 'img/mudcrab.jpg'
+feature_image: 'img/mudcrab.jpg'
 ---
 
 # Underwater landcruiser

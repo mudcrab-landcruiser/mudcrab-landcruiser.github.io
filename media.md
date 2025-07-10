@@ -2,7 +2,7 @@
 layout: page
 title: Media
 permalink: /media
-background: 'img/mudcrab.jpg'
+feature_image: 'img/mudcrab.jpg'
 ---
 
 # Media links
