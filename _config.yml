@@ -6,7 +6,9 @@ title: Mudcrab Darwin harbour crossing
 description: An underwater crossing of Darwin harbour in an electric Landcruiser
 
 defaults:
-  - scope: 
+  -
+    scope:
       path: ""
-    value:
+    values:
       background: "/img/mudcrab.jpg"
+      author: "matt"
