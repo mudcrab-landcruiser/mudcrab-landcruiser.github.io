@@ -9,4 +9,4 @@ defaults:
   - scope: 
       path: ""
     value:
-      background: 'img/mudcrab.jpg'
+      background: "/img/mudcrab.jpg"
