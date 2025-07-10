@@ -1,4 +1,5 @@
 ---
+layout: homepage
 feature_image: 'img/mudcrab.jpg'
 ---
 

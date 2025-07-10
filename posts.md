@@ -1,7 +1,3 @@
 ---
-layout: home
-background: 'img/mudcrab.jpg'
+layout: homepage
 ---
-
-# Posts
-
