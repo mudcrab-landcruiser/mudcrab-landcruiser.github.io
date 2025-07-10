@@ -35,5 +35,5 @@ Original Crossing 40 Years Earlier:
 
 Channel 9 Filming in Darwin during final tests:
 
-![Embedding an image](/img/DJI_0003.jpg)
+![Embedding an image](/img/IMG_4780.jpg)
 
