@@ -6,6 +6,10 @@ description: An underwater crossing of Darwin harbour in an electric Landcruiser
 author: matt
 timezone: Australia/Melbourne
 
+# plugins:
+  # - jekyll-paginate
+# paginate: 2
+
 logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
 
 navigation_header:

@@ -4,7 +4,7 @@ title: Electric conversion
 date: 2025-07-08
 ---
 
-# Electric conversion
+we removed the original petrol engine and replaced it with an electric drivetrain.
 
 ## Components
 

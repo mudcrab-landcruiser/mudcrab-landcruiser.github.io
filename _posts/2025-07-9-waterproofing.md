@@ -4,8 +4,6 @@ title: Waterproofing
 date: 2025-07-9
 ---
 
-# Waterproofing
-
 All the elctronics were in a sealed container full of oil.
 
 It was kept at a couple of psi above ambient pressure to prevent any water getting in.
