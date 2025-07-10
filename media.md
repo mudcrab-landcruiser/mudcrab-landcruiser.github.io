@@ -15,7 +15,7 @@ Text Articles:
 - [Supercar Blonide](https://supercarblondie.com/deepest-longest-underwater-drive-mudcrab-landcruiser-darwin/)
 - [Guardian Australia](https://www.theguardian.com/australia-news/2023/jul/31/darwin-divers-drive-a-mud-crab-landcruiser-underwater-for-7km-and-perhaps-into-the-record-books)
 - [Electrek](https://electrek.co/2023/07/31/electric-retrofit-landcruiser-drives-4-miles-completely-underwater/)
-- [InsideEVs] (https://insideevs.com/news/679633/toyota-landcruiser-ev-drives-underwater-video/)
+- [InsideEVs](https://insideevs.com/news/679633/toyota-landcruiser-ev-drives-underwater-video/)
 - [Carsales Australia](https://www.carsales.com.au/editorial/details/electric-toyota-landcruiser-crosses-darwin-harbour-141838/)
 - [CarExpert](https://www.carexpert.com.au/car-news/electric-toyota-landcruiser-drives-7km-underwater)
 
