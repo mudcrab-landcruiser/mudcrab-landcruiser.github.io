@@ -3,14 +3,12 @@ layout: homepage
 feature_image: 'img/mudcrab.jpg'
 ---
 
-# Underwater landcruiser
+# World's First Underwater Car
 
-This is the World's first true Underwater Car
+In July 2023 we drove it 7km across Darwin Harbour, 30m deep at is peak
 
-In July 2023, we drove it 7km across Darwin Harbour, 30m deep at is peak
+It's called the Mudcrab - it's a fully electric, underwater-rated 1978 Toyota Landcruiser 
 
-It's call the Mudcrab - it's a fully electric, underwater-rated 1978 Toyota Landcruiser 
+It was built and driven by 'ragtag team of engineers, commercial divers and revheads' according to ABC News Australia, which is about right
 
-It was built and driven by 'ragtag team of engineers, commercial divers and revheads' according to ABC News Australia, which is about right.  
-
-
+![Embedding an image](/img/DJI_0003.jpg)
