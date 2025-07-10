@@ -4,3 +4,9 @@ plugins:
 - jekyll-remote-theme
 title: Mudcrab Darwin harbour crossing
 description: An underwater crossing of Darwin harbour in an electric Landcruiser
+
+defaults:
+  - scope: 
+      path: ""
+    value:
+      background: 'img/mudcrab.jpg'

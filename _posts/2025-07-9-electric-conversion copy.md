@@ -2,7 +2,6 @@
 layout: post
 title: Waterproofing
 date: 2025-07-9
-background: 'img/mudcrab.jpg'
 ---
 
 # Waterproofing

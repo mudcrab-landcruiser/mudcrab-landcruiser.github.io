@@ -2,7 +2,6 @@
 layout: post
 title: Electric conversion
 date: 2025-07-08
-background: 'img/mudcrab.jpg'
 ---
 
 # Electric conversion
@@ -19,3 +18,9 @@ background: 'img/mudcrab.jpg'
 ## testing
 
 We did some pressure testing on all the components to chekc they would survive at 15psi.
+
+## Battery box
+
+All the batteries, and fuses, main HV contactors, and charging contactors were installed in the rear oil box.
+
+![Battery box wiring](/img/battery-box-wiring.jpg)
