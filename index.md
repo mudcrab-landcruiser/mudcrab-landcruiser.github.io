@@ -11,4 +11,5 @@ It's called the Mudcrab - it's a fully electric, underwater-rated 1978 Toyota La
 
 It was built and driven by 'ragtag team of engineers, commercial divers and revheads' according to ABC News Australia, which is about right
 
-![Embedding an image](/img/DJI_0003.jpg)
+![Embedding an image](/drone_begin_crossing.jpg)
+
