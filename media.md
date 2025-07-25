@@ -20,10 +20,18 @@ Text Articles:
 - [CarExpert](https://www.carexpert.com.au/car-news/electric-toyota-landcruiser-drives-7km-underwater)
 
 Videos:
-- [Designed and Built](https://youtu.be/1TD5uuUAhCY?si=kv1au_5fDi8rBLAU)
+- [Designed and Built 1](https://youtu.be/1TD5uuUAhCY?si=kv1au_5fDi8rBLAU)
+- [Designed and Build 2](https://youtu.be/IBIRnrTItGo?si=MdLadh5H2NMubmJl)
 - [Guardian Australia](https://www.youtube.com/watch?v=kvwn46_xxxw)
 - [ABC News Australia](https://www.youtube.com/watch?v=ZPugSydCbzA)
 - [Platima Tinkers](https://www.youtube.com/watch?v=NeeKTuUTnA0)
+- [9 News](https://www.facebook.com/9NewsQueensland/videos/238129305846675/)
+- [7 News](https://www.facebook.com/7NEWSAdelaide/videos/1651031595407622)
+
+Radio:
+ - [ABC Radio Darwin](https://www.abc.net.au/listen/programs/am/darwin-s-diving-car-ready-for-record-attempt/102648338?utm_content=link&utm_medium=content_shared)
+- [ABC Radio Melbourne](https://www.abc.net.au/listen/programs/melbourne-drive/driving-underwater-in-darwin/102561298)
+- [ABC Radio Tales from the Tinny](https://www.abc.net.au/listen/programs/talesfromthetinny/inside-the-4wd-crossing-darwin-harbour-underwater/102655948?utm_content=link&utm_medium=content_shared)
 
 Pre-Crossing Media:
 - [Sunrise Australia](https://7news.com.au/video/news/melbourne-mates-building-a-custom-electric-land-cruiser-to-drive-30-metres-underwater-in-the-darwin-harbour-bc-6330320746112)
