@@ -30,8 +30,10 @@ Videos:
 
 Radio:
  - [ABC Radio Darwin](https://www.abc.net.au/listen/programs/am/darwin-s-diving-car-ready-for-record-attempt/102648338?utm_content=link&utm_medium=content_shared)
+ - [ABC Radio Darwin](https://www.abc.net.au/listen/programs/darwin-breakfast/driving-across-the-floor-of-the-darwin-harbour/102570016?utm_content=link&utm_medium=content_shared)
 - [ABC Radio Melbourne](https://www.abc.net.au/listen/programs/melbourne-drive/driving-underwater-in-darwin/102561298)
 - [ABC Radio Tales from the Tinny](https://www.abc.net.au/listen/programs/talesfromthetinny/inside-the-4wd-crossing-darwin-harbour-underwater/102655948?utm_content=link&utm_medium=content_shared)
+- [ABC Radio Melbourne](https://www.abc.net.au/listen/programs/melbourne-mornings/darwin-harbour-landcruiser-underwater-drive/102668142?utm_content=link&utm_medium=content_shared)
 
 Pre-Crossing Media:
 - [Sunrise Australia](https://7news.com.au/video/news/melbourne-mates-building-a-custom-electric-land-cruiser-to-drive-30-metres-underwater-in-the-darwin-harbour-bc-6330320746112)
