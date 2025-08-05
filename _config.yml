@@ -9,9 +9,9 @@ exclude:
 plugins:
 - jekyll-remote-theme
 - jekyll-paginate
+- jekyll-seo-tag
 # - jekyll-sitemap
 # - jekyll-mentions
-# - jekyll-seo-tag
 # - jekyll-redirect-from
 # - jekyll-feed
 # - jekyll-commonmark
@@ -64,11 +64,6 @@ defaults:
       type: "pages"
     values:
       layout: page # Set the default layout for pages
-  -
-    scope:
-      path: ""
-    values:
-      feature_image: "/img/mudcrab.jpg"
 
 favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
   96: "/assets/logos/mudcrab@96px.png"

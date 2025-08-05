@@ -1,6 +1,6 @@
 ---
 layout: homepage
-feature_image: 'img/mudcrab.jpg'
+feature_image: '/img/mudcrab.jpg'
 ---
 
 # World's First Underwater Car

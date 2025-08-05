@@ -1,10 +1,8 @@
 ---
 layout: page
-title: About
+title: Underwater crossing of Darwin harbour
 permalink: /about
 ---
-
-# Underwater crossing of Darwin harbour
 
 ## What
 

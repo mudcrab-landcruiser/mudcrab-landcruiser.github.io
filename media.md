@@ -1,11 +1,8 @@
 ---
 layout: page
-title: Media
+title: Media links
 permalink: /media
-feature_image: 'img/mudcrab.jpg'
 ---
-
-# Media links
 
 Text Articles:
 - [ABC News Australia](https://www.abc.net.au/news/2023-07-30/nt-world-record-darwin-underwater-drive/102665924)
