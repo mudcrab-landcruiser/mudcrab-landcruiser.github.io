@@ -24,6 +24,10 @@ $headingtype: (
   margin: auto;
 }
 
+
+@import "alembic";
+
+
 .content {
   @include breakpoint(break-1) {
     width: 80%;
@@ -32,5 +36,3 @@ $headingtype: (
     width: 62%;
   }
 }
-
-@import "alembic";
