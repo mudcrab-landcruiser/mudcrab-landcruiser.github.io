@@ -19,5 +19,18 @@ $headingtype: (
   cap-height: 0.75
 ) !default;
 
+.feature {
+  max-width: 600px;
+  margin: auto;
+}
+
+.content {
+  @include breakpoint(break-1) {
+    width: 80%;
+  }
+  @include breakpoint(break-2) {
+    width: 62%;
+  }
+}
 
 @import "alembic";
