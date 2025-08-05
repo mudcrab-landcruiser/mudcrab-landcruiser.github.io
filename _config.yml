@@ -1,17 +1,37 @@
-# remote_theme: StartBootstrap/startbootstrap-clean-blog-jekyll
-# plugins: 
-# - jekyll-remote-theme
+# Set theme
+remote_theme: daviddarnes/alembic@main
+
+# File excludes
+exclude:
+- README.md
+- Gemfile
+- Gemfile.lock
+
+# Set plugins
+plugins:
+- jekyll-remote-theme
+- jekyll-paginate
+# - jekyll-sitemap
+# - jekyll-mentions
+# - jekyll-seo-tag
+# - jekyll-redirect-from
+# - jekyll-feed
+# - jekyll-commonmark
+# - jekyll-include-cache
+# - jemoji
+
+# Site settings
+#url: 'https://'
+#baseurl: ''
 title: Mudcrab Darwin harbour crossing
 description: An underwater crossing of Darwin harbour in an electric Landcruiser
-author: matt
 timezone: Australia/Melbourne
+permalink: pretty
+logo: "/assets/logos/mudcrab@200px.png
 
-plugins:
-  - jekyll-paginate
+# Pagination
 paginate: 5
-paginate_path: "/posts/page:num/"
-
-logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
+paginate_path: "posts/page:num"
 
 navigation_header:
 - title: Home
@@ -26,15 +46,11 @@ navigation_header:
 navigation_footer:
 - title: Underwater landcruiser
   url: https://mudcrab-landcruiser.github.io
+- title: Back to top
+  url: "#top"
 
-
+# Collection settings
 defaults:
-  -
-    scope:
-      path: ""
-    values:
-      feature_image: "/img/mudcrab.jpg"
-      author: "matt"
   -
     scope:
       path: ""
@@ -47,10 +63,19 @@ defaults:
       type: "pages"
     values:
       layout: page # Set the default layout for pages
+  -
+    scope:
+      path: ""
+    values:
+      feature_image: "/img/mudcrab.jpg"
 
-
+favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
+  96: '/assets/logos/mudcrab@96px.png'
+  192: '/assets/logos/mudcrab@192px.png'
+  512: '/assets/logos/mudcrab@512px.png'
+  
 fonts:
   preconnect_urls:
     - https://fonts.gstatic.com
   font_urls:
-    - https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&display=swap
+    - https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;700;1,400;700&display=swap

@@ -3,4 +3,21 @@ title: false
 styles: true
 ---
 
+//Override fonts
+$bodytype: (
+  font-family: '"Open Sans", sans-serif"',
+  regular: 400,
+  bold: 700,
+  italic: italic,
+  cap-height: 0.75
+) !default;
+
+$headingtype: (
+  font-family: '"Open Sans", sans-serif',
+  regular: 400,
+  bold: 700,
+  cap-height: 0.75
+) !default;
+
+
 @import "alembic";
