@@ -1,5 +1,5 @@
 ---
-layout: homepage
+layout: page
 feature_image: '/img/mudcrab.jpg'
 ---
 
