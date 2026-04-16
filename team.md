@@ -1,1 +1,84 @@
+---
+layout: post
+title: Team
+---
 
+![Team photo](/img/DJI_0003.jpg)
+
+## Engineering
+
+- Matt Godfrey
+- Glen Summers
+- Alexandra Boulgakov
+- Scott McDaid
+- Ian Boyle
+- Travis Lia
+- Luke Purdy
+- Finn Davy
+- Irving Tjiptowosono
+- Jamie Little
+- Andrew Ford
+- Sam Perham
+- Kelsey Treloar
+
+## Project Leads and TV Show
+
+- Thomas Lawrence
+- Glen Summers
+- Mathew Mitchell
+- Ash Dunn
+- Taylor Smith
+- Luke Purdy
+- Travis Lia
+
+## Team Media 
+
+- David Hancock
+- Maddy Stenmark
+- Bridgit Philips 
+- Lachlan McAllister
+- Josh Ruhl (check spelling)
+
+## Divers 
+
+- Alister Lehmann, 
+- Cohan’s Mate
+- Luke Gosling
+- Andrew Ford
+- Chris Grother
+- Leigh Arnold
+- Taison Clarke-Tarawhiti
+- Joe Leonardi
+- Keegan Glavurdic
+- Tom Proctor
+- Ben Proctor
+- Finn Davy
+- Courtenay Maclaughlin
+- Peter Meyer
+- Cohan Allan
+- Luke Purdy
+- Taylor Smith
+- Graeme Mitchell
+- Stuart Winter
+- Djari Burton
+- Richard Bradley (Dingo)
+- Seth Chin
+- Will Hanigan
+- Clay Roper
+- Hamish Jones
+- ??
+- ??
+- Alejandro Usobiaga
+- Karl Vonminden
+- Adam Burke
+- Steve Philip
+- Amelia Bartlem
+- Ramon Geijsels
+- Eli Tredinick
+- Andrew Jones
+
+## Other Project Support
+
+- Sam Fleming
+- Dominic Bowd
+- Helen & Iain Summers
