@@ -35,14 +35,16 @@ paginate: 5
 paginate_path: "posts/page:num"
 
 navigation_header:
-- title: Home
-  url: /
-- title: About
-  url: /about
-- title: Media
-  url: /media
-- title: Posts
-  url: /posts
+  - title: Home
+    url: /
+  - title: Project
+    url: /project
+  - title: Technical
+    url: /tech_specs
+  - title: Team
+    url: /team
+  - title: Media
+    url: /media
 
 navigation_footer:
 - title: Underwater landcruiser
