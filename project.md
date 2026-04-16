@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Underwater crossing of Darwin harbour
-permalink: /about
+permalink: /project
 ---
 
 ## What
