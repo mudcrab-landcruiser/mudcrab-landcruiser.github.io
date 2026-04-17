@@ -57,22 +57,4 @@ defaults:
     values:
       layout: page # Set the default layout for pages
 
-favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
-  96: "/assets/logos/mudcrab@96px.png"
-  192: "/assets/logos/mudcrab@192px.png"
-  512: "/assets/logos/mudcrab@512px.png"
-  
-fonts:
-  preconnect_urls:
-    - https://fonts.gstatic.com
-  font_urls:
-    - https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap
-
-# Agency Theme Header Settings
-header:
-  title: "MUDCRAB"
-  phrase: "The World's Deepest Underwater Drive"
-  button: "Explore the Build"
-  link: "#portfolio"
-  bg-img: "/img/drone_begin_crossing.jpg" 
     
