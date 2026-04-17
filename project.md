@@ -2,6 +2,7 @@
 layout: page
 title: Why?
 cover-img: "/img/on_trailer_flag.jpeg"
+cover-img-alpha: 0.6
 permalink: /project
 ---
 
