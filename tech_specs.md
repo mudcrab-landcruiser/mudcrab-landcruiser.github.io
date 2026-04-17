@@ -26,9 +26,9 @@ title: Tech Specs
 ## Key Suppliers and Partners
 -  [Oceantec](https://www.oceantec.com.au)
 -  [Southern Ocean Subsea](https://www.oceantec.com.au)
--  Spark Lithium
 -  [LCS 4x4](https://lcs4x4.com.au)
 -  [Designed and Built](https://designedandbuilt.com.au)
+-  Spark Lithium
 
 
 ![Battery box wiring](/img/battery-box-wiring.jpg)
