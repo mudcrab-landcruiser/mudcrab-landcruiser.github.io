@@ -19,7 +19,7 @@ plugins:
 # - jemoji
 
 # Set theme
-remote_theme: raviriley/agency-jekyll-theme
+remote_theme: "daattali/beautiful-jekyll"
 
 # Site settings
 url: 'https://underwaterlandcruiser.com'
@@ -35,15 +35,11 @@ paginate: 5
 paginate_path: "posts/page:num"
 
 # Navigation Links
-nav:
-  - title: Technical
-    url: /tech_specs
-  - title: Project
-    url: /project
-  - title: Team
-    url: /team
-  - title: Media
-    url: /media
+navbar-links:
+  Technical: "tech_specs"
+  Project: "project"
+  Team: "team"
+  Media: "media"
 
 
 # Collection settings
