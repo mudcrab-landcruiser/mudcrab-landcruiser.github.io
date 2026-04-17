@@ -1,4 +1,5 @@
 ---
+title: The Project
 layout: page
 cover-img: "/img/on_trailer_flag.jpeg"
 permalink: /project
