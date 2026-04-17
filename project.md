@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Why did we do this?
+title: Why?
 permalink: /project
 ---
 
@@ -8,6 +8,9 @@ permalink: /project
 ## Completing the Mission
 
 40 years prior (to the same weekend) in 1983, our adventurous forefathers attempted to drive from Mandorah to Mindil in a similar car, with 60 SCUBA divers as the under water drivers. Being a diesel, it needed large heavy snorkels to the surface to breath. The car ran fine, nearly made it, but hit a large rock underwater bringing the attempt to an end before it could be complete. 
+
+![Original](/img/og_snorkels.jpeg){: .rounded .shadow-lg }
+<p align="center" style="color:gray; font-size: 0.9em;">1983 Machine.</p>*
 
 This project needed completing, and the time was right to attempt it again with an EV, that doesn't need to breath from the surface. (We also added sonar so we didn't hit rocks, and used commercial divers with surface-supply air rather than SCUBA tanks). 
 
