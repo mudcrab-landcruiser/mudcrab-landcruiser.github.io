@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Team
 ---
 
@@ -12,6 +12,7 @@ title: Team
 - Alexandra Boulgakov
 - Scott McDaid
 - Ian Boyle
+- Dale Frew
 - Travis Lia
 - Luke Purdy
 - Finn Davy
