@@ -14,6 +14,6 @@ This project was supported by, and features on the TV series called Cult Cars: L
 
 ## How could some aussie bogans build such a piece of technology?
 
-For the subsea and electrical engineering, the core engineering team has international links to some of the most advanced subsea and electric vehicle projects. For the mech team, we had top tier fabricators and welders. There was a lot of general subsea and ocean experience in the team. 
+For the subsea and electrical engineering, the core engineering team has international links to some of the most advanced subsea and electric vehicle projects in the world. For the mech team, we had top tier fabricators and welders. There was a lot of general subsea and ocean experience in the team, as commerical divers themselves are elite underwater tradesmen. 
 
 
