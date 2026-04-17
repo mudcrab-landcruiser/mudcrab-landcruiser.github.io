@@ -11,7 +11,7 @@ permalink: /project
 
 This project needed completing, and the time was right to attempt it again with an EV, that doesn't need to breath from the surface. (We also added sonar so we didn't hit rocks, it's dark down there). 
 
-This project was supported by, and features on the TV series called Cult Cars: Landcruiser on Apple TV and Binge.  
+This project was supported by, and features on the TV series called *Cult Cars: Landcruiser* on [Apple TV](https://tv.apple.com/au/show/cult-cars-land-cruiser/umc.cmc.5ufstju4j13o7lygi46zexprw) and [Foxtel/Binge](https://www.foxtel.com.au/watch/tv-shows/cult-cars-land-cruiser.html).  
 
 ## How could some aussie bogans build such a piece of technology?
 
