@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "MUDCRAB"
-cover-img: "/img/drone_begin_crossing.jpg"
+cover-img: "/img/beach_empty_2.jpg"
 ---
 
 # World's First Underwater Car
