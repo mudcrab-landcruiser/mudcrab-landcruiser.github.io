@@ -1,5 +1,7 @@
 ---
-layout: default
+layout: page
+title: "MUDCRAB"
+subtitle "The World's First Underwater Car"
 feature_image: '/img/mudcrab.jpg'
 ---
 
