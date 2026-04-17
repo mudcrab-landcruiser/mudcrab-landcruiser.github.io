@@ -4,17 +4,16 @@ title: Underwater crossing of Darwin harbour
 permalink: /project
 ---
 
-## What
+## Completing the Mission
 
-We built and drove a custom eletric landcruiser across the bottom of Darwin Harbour.
+40 years go to the same weekend in 1983, our adventurous northern forefathers attempted to drive from Mandorah to Mindil in a similar car. Being a diesel, it needed large heavy snorkels to the surface to breath. The car ran fine, nearly made it, but hit a large rock underwater bringing the attempt to an end before it could be complete. 
 
-## Why
+This project needed completing, and the time was right to attempt it again with an EV, that doesn't need to breath from the surface. (We also added sonar so we didn't hit rocks, it's dark down there). 
 
-Why not?
+This project was supported by, and features on the TV series called Cult Cars: Landcruiser on Apple TV and Binge.  
 
-But also, to re-attempt a famous attempt from 40 years ago.
+## How could some aussie bogans build such a piece of technology?
 
-## How
+For the subsea and electrical engineering, the core engineering team has international links to some of the most advanced subsea and electric vehicle projects. For the mech team, we had top tier fabricators and welders. There was a lot of general subsea and ocean experience in the team. 
 
-We ripped out the old engine and drivetrain and replaced it with an electric one.
-All the components needed to be protected from salt water, and also able to survive the pressure at 30m depth underwater.
+
