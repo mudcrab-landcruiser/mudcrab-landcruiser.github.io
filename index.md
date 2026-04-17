@@ -2,7 +2,7 @@
 layout: page
 title: "MUDCRAB"
 subtitle "The World's First Underwater Car"
-feature_image: '/img/mudcrab.jpg'
+feature_image: "/img/done_begin_crossing.jpg"
 ---
 
 # World's First Underwater Car
@@ -15,7 +15,5 @@ The car is called Mudcrab - it's a 1978 Toyota Landcruiser modified for the feat
 
 'ragtag team of engineers, commercial divers and revheads' - ABC News Australia
 
-INSERT MAP
 
-![Embedding an image](/img/drone_begin_crossing.jpg)
 
