@@ -38,7 +38,7 @@ title: Team
 - Maddy Stenmark
 - Bridgit Philips 
 - Lachlan McAllister
-- Josh Ruhl (check spelling)
+- Josh Ruhl
 
 ## Divers 
 
@@ -67,8 +67,6 @@ title: Team
 - Will Hanigan
 - Clay Roper
 - Hamish Jones
-- ??
-- ??
 - Alejandro Usobiaga
 - Karl Vonminden
 - Adam Burke
