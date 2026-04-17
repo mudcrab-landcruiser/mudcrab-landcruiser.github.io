@@ -23,4 +23,12 @@ title: Tech Specs
 - Custom control electronics for human undersea interface (in water) into motor controller (in silicon oil)
 - Complex shaft coupler interface from motor (in silicon oil) to gearbox
 
+## Key Suppliers and Partners
+-  [Oceantec](https://www.oceantec.com.au)
+-  [Southern Ocean Subsea](https://www.oceantec.com.au)
+-  Spark Lithium
+-  [LCS 4x4](https://lcs4x4.com.au)
+-  [Designed and Built](https://designedandbuilt.com.au)
+
+
 ![Battery box wiring](/img/battery-box-wiring.jpg)
