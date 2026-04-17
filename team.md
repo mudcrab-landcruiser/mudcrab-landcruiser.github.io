@@ -24,10 +24,10 @@ title: Team
 ## Project Leads and TV Show
 
 - Thomas Lawrence
+- Taylor Smith
 - Glen Summers
 - Mathew Mitchell
 - Ash Dunn
-- Taylor Smith
 - Luke Purdy
 - Travis Lia
 
@@ -41,7 +41,7 @@ title: Team
 
 ## Divers 
 
-- Alister Lehmann, 
+- Alister Lehmann 
 - Cohan’s Mate
 - Luke Gosling
 - Andrew Ford
@@ -79,6 +79,7 @@ title: Team
 
 ## Other Project Support
 
+- Helen & Iain Summers
 - Sam Fleming
 - Dominic Bowd
-- Helen & Iain Summers
+
