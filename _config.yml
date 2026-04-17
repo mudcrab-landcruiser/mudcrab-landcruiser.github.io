@@ -19,7 +19,7 @@ plugins:
 # - jemoji
 
 # Set theme
-remote_theme: ycuriel/agency-jekyll-theme
+remote_theme: raviriley/agency-jekyll-theme
 
 # Site settings
 url: 'https://underwaterlandcruiser.com'
