@@ -1,5 +1,5 @@
 ---
-layout: landing-page
+layout: default
 feature_image: '/img/mudcrab.jpg'
 ---
 
