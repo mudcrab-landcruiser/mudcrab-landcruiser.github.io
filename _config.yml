@@ -19,10 +19,10 @@ plugins:
 # - jemoji
 
 # Set theme
-remote_theme: daviddarnes/alembic@main
+remote_theme: ycuriel/agency-jekyll-theme
 
 # Site settings
-#url: 'https://'
+#url: 'https://underwaterlandcruiser.com'
 #baseurl: ''
 title: Mudcrab Darwin harbour crossing
 description: An underwater crossing of Darwin harbour in an electric Landcruiser
