@@ -34,23 +34,17 @@ logo: "/assets/logos/mudcrab@200px.png"
 paginate: 5
 paginate_path: "posts/page:num"
 
-navigation_header:
-  - title: Home
-    url: /
+# Navigation Links
+nav:
+  - title: Technical
+    url: /technical
   - title: Project
     url: /project
-  - title: Technical
-    url: /tech_specs
   - title: Team
     url: /team
   - title: Media
     url: /media
 
-navigation_footer:
-- title: Underwater landcruiser
-  url: https://mudcrab-landcruiser.github.io
-- title: Back to top
-  url: "#top"
 
 # Collection settings
 defaults:
@@ -77,3 +71,12 @@ fonts:
     - https://fonts.gstatic.com
   font_urls:
     - https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap
+
+# Agency Theme Header Settings
+header:
+  title: "MUDCRAB"
+  phrase: "The World's Deepest Underwater Drive"
+  button: "Explore the Build"
+  link: "#portfolio"
+  bg-img: "/assets/img/header-bg.jpg" # We will upload this in a second
+    
