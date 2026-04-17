@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Why?
+cover-img: "/img/on_trailer_flag.jpeg"
 permalink: /project
 ---
 
