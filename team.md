@@ -154,11 +154,6 @@ cover-img: "/img/Team_drone.jpeg"
   </div>
   <div class="col-md-4 col-sm-6">
     <div style="padding: 15px; background-color: #f8f9fa; border-left: 4px solid #4299e1; margin-bottom: 15px; border-radius: 4px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
-      <strong style="font-size: 1.1em; color: #2d3748;">Cohan’s Mate</strong>
-    </div>
-  </div>
-  <div class="col-md-4 col-sm-6">
-    <div style="padding: 15px; background-color: #f8f9fa; border-left: 4px solid #4299e1; margin-bottom: 15px; border-radius: 4px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
       <strong style="font-size: 1.1em; color: #2d3748;">Luke Gosling</strong>
     </div>
   </div>
