@@ -78,5 +78,5 @@ header:
   phrase: "The World's Deepest Underwater Drive"
   button: "Explore the Build"
   link: "#portfolio"
-  bg-img: "/assets/img/header-bg.jpg" # We will upload this in a second
+  bg-img: "/img/drone_begin_crossing.jpg" 
     
