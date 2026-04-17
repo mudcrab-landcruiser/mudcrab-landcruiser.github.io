@@ -2,6 +2,7 @@
 layout: page
 title: Team
 cover-img: "/img/Team_drone.jpeg"
+cover-img-alpha: 0.6
 ---
 
 <h2 style="margin-top: 40px; border-bottom: 2px solid #ddd; padding-bottom: 10px;">Engineering</h2>
