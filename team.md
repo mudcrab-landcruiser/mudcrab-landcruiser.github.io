@@ -3,7 +3,7 @@ layout: page
 title: Team
 ---
 
-![Team photo](/img/DJI_0003.jpg)
+![Team photo](/img/Team_drone.jpg)
 
 ## Engineering
 
