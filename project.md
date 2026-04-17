@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Underwater crossing of Darwin harbour
+title: Why did we do this?
 permalink: /project
 ---
+
 
 ## Completing the Mission
 
@@ -14,6 +15,10 @@ This project was supported by, and features on the TV series called Cult Cars: L
 
 ## How could some aussie bogans build such a piece of technology?
 
-For the subsea and electrical engineering, the core engineering team has international links to some of the most advanced subsea and electric vehicle projects in the world. For the mech team, we had top tier fabricators and welders. There was a lot of general subsea and ocean experience in the team, as commerical divers themselves are elite underwater tradesmen. 
+For the subsea and electrical engineering, the core engineering team has international links to some of the most advanced subsea and electric vehicle projects in the world. 
+
+For the mechanical, we had top tier fabricators and welders - the car was developed and built between Brisbane, Newcastle, Melbourne and Darwin. 
+
+There was a lot of general subsea and ocean experience in the team, as commerical divers themselves are elite underwater tradesmen. 
 
 
