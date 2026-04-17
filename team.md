@@ -1,9 +1,8 @@
 ---
 layout: page
 title: Team
+cover-img: "/img/Team_drone.jpeg"
 ---
-
-![Team photo](/img/Team_drone.jpeg)
 
 ## Engineering
 
