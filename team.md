@@ -1,6 +1,7 @@
 ---
 layout: page
 cover-img: "/img/Team_drone.jpeg"
+permalink: /team
 ---
 
 <h2 style="margin-top: 40px; border-bottom: 2px solid #ddd; padding-bottom: 10px;">Engineering</h2>
